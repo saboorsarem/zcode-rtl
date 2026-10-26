@@ -8,6 +8,8 @@
 [![Platform: ZCode](https://img.shields.io/badge/Platform-ZCode-blueviolet)](https://z.ai)
 [![Version](https://img.shields.io/badge/Version-0.1.0-orange)](CHANGELOG.md)
 
+**English** | [العربية (RTL)](README.ar.md)
+
 *One skill, one command — and mixed-direction text stops breaking.*
 
 </div>
