@@ -8,7 +8,7 @@
 [![Platform: ZCode](https://img.shields.io/badge/Platform-ZCode-blueviolet)](https://z.ai)
 [![Version](https://img.shields.io/badge/Version-0.1.0-orange)](CHANGELOG.md)
 
-[English](README.md) | **العربية**
+[English](README.md) | **العربية** | [עברית](README.he.md) | [فارسی](README.fa.md) | [اردو](README.ur.md)
 
 *مهارة واحدة، وأمر واحد — فيختفي خلل النصوص المختلطة الاتجاه.*
 
