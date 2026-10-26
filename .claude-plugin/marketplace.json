@@ -1,0 +1,28 @@
+{
+  "name": "saboorsarem-zcode-plugins",
+  "owner": { "name": "Saboor Sarem", "url": "https://github.com/saboorsarem" },
+  "plugins": [
+    {
+      "name": "rtl",
+      "source": "./rtl",
+      "version": "0.1.0",
+      "description": "Applies and fixes right-to-left text and layout direction for Arabic, Hebrew, Persian and Urdu: Unicode bidi marks, dir attributes, logical CSS properties.",
+      "displayName": "RTL Direction",
+      "displayName_i18n": {
+        "ar": "اتجاه من اليمين إلى اليسار",
+        "he": "כיוון מימין לשמאל",
+        "fa": "جهت راست‌به‌چپ",
+        "ur": "دائیں سے بائیں سمت",
+        "ru": "Направление справа налево"
+      },
+      "description_i18n": {
+        "ar": "يطبّق ويصلح اتجاه النص والتنسيق من اليمين إلى اليسار للعربية والعبرية والفارسية والأردية: علامات الاتجاه في يونيكود، سمات dir، خصائص CSS المنطقية.",
+        "he": "מחיל ומתקן כיוון טקסט ופריסה מימין לשמאל עבור עברית, ערבית, פרסית ואורדו: סימני bidi של יוניקוד, מאפייני dir, מאפייני CSS לוגיים.",
+        "fa": "اعمال و اصلاح جهت متن و چیدمان راست‌به‌چپ برای عربی، عبری، فارسی و اردو: نشان‌های دوجهته یونیکود، ویژگی dir، خصوصیات منطقی CSS.",
+        "ur": "عربی، عبری، فارسی اور اردو کے لیے دائیں سے بائیں متن اور خاکہ کی سمت لاگو اور درست کرتا ہے: یونیکوڈ دوطرفہ نشانات، dir خصوصیات، منطقی CSS خصوصیات۔",
+        "ru": "Настраивает и исправляет направление текста и вёрстки справа налево для арабского, иврита, персидского и урду: bidi-символы Unicode, атрибуты dir, логические свойства CSS."
+      },
+      "category": "productivity"
+    }
+  ]
+}

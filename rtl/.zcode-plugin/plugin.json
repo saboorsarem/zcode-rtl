@@ -1,0 +1,8 @@
+{
+  "name": "rtl",
+  "version": "0.1.0",
+  "description": "Applies and fixes right-to-left text and layout direction for Arabic, Hebrew, Persian and Urdu: Unicode bidi marks, dir attributes, logical CSS properties.",
+  "author": { "name": "Saboor Sarem", "url": "https://github.com/saboorsarem" },
+  "skills": "./skills",
+  "commands": "./commands"
+}
